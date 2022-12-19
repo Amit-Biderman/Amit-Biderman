@@ -3,4 +3,4 @@
 ### 📈 Github Stats
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Biderman&layout=compact" />  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-Biderman)](https://github.com/anuraghazra/github-readme-stats)
